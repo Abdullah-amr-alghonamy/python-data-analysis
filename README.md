@@ -113,7 +113,7 @@ plt.show()
 
 ```
 ### Resluts
-![visulization of top skills](4-project\images\skill_demand_percn.png)
+![visulization of top skills](4-project/images/skill_demand_percn.png)
 
 ### Insights
 - SQL is the universal skill — it appears in the top 3 for all three roles (51%, 68%, 51%), making it the safest first skill to learn regardless of which data career path you choose.
@@ -175,7 +175,7 @@ plt.show()
 ```
 
 ### Results 
-![trending top skills for Data Analyst in US](4-project\images\skill_demand_month.png)
+![trending top skills for Data Analyst in US](4-project/images/skill_demand_month.png)
 
 *bar graph visulizing the trinding top skills for data analyst in the US*
 
@@ -205,7 +205,7 @@ plt.show()
 ```
 
 #### results
-![Salary distribution for Data jobs](4-project\images\box_plot_salary.png)
+![Salary distribution for Data jobs](4-project/images/box_plot_salary.png)
 
 #### insights
 - Role Hierarchy: Senior Data Scientists and Senior Data Engineers command the highest median salaries (~$180k–$200k+), followed closely by mid-level Data Scientists/Engineers, while Data Analysts have the lowest median pay across all tiers.
@@ -243,7 +243,7 @@ fig.tight_layout()
 plt.show() 
 ```
 #### Results 
-![The highest paid & most demanded skills for Data analysis](4-project\images\salary_chart.png)
+![The highest paid & most demanded skills for Data analysis](4-project/images/salary_chart.png)
 
 #### insights:
 
